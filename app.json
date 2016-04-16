@@ -1,0 +1,15 @@
+{
+    "name": "Movie Club",
+    "description": "A movie club application using Heroku/Swift/Frank",
+    "repository": "https://github.com/jverdi/movieclub-server",
+    "website": "https://github.com/jverdi/movieclub-server",
+    "keywords": [
+        "swift",
+        "frank"
+    ],
+    "buildpacks": [
+        {
+            "url": "https://github.com/kylef/heroku-buildpack-swift"
+        }
+    ]
+}

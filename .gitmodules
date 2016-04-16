@@ -1,0 +1,3 @@
+[submodule "vendor/movieclub-model"]
+	path = vendor/movieclub-model
+	url = https://github.com/jverdi/movieclub-model.git
